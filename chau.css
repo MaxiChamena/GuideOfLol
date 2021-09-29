@@ -1,9 +1,9 @@
 body {
-    font-size: 20px;
+    font-size: 10px;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
-div > p {
-    font-size: 15px;
+#laconchadetumadreallboys {
+    font-size: 12px;
 }
 
 h3 {
@@ -15,4 +15,8 @@ h3 {
     margin-top: 20px;
     background-color: #de550e;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+#Titulos :hover {
+    background-color: black;
+    color: white;
 }
