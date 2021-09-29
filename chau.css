@@ -20,3 +20,10 @@ h3 {
     background-color: black;
     color: white;
 }
+
+#elvi {
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ff2476;
+    text-align: justify;
+}
