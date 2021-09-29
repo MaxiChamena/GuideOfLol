@@ -2,27 +2,55 @@ body {
     font-size: 10px;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
-#laconchadetumadreallboys {
-    font-size: 12px;
+
+h1 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+    background-color: greenyellow;
+}
+
+#titles {
+    font-size: 15px;
+    text-align: center;
+    margin: 20px 0px;
+
+}
+
+#titles-1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;   
+}
+
+#titles-1 li {
+    display: inline;
+    margin: 32px;
+}
+
+#titles-1 li h4 {
+    display: inline;
 }
 
 h3 {
     font-style: oblique;
-    font-weight: 200;
+    font-weight: 600;
     font-size: x-large;
-    border: 10px solid #5000ee;
+    border: 10px solid greenyellow;
     padding: 35px;
     margin-top: 20px;
-    background-color: #de550e;
+    background-color: #bbeebb;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
 }
-#Titulos :hover {
+#titles :hover {
+    display: inline;
     background-color: black;
     color: white;
 }
 
-#elvi {
+#biography {
     color: blueviolet;
-    font-size: 25px;
+    font-size: 14px;
     font-weight: 200;
+    border: solid #23ed77;
+    background-color: #23dd55;
 }
