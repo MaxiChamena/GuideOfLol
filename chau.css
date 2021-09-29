@@ -6,8 +6,13 @@ div > p {
     font-size: 15px;
 }
 
-div > h3 {
+h3 {
     font-style: oblique;
     font-weight: 200;
     font-size: x-large;
-    }
+    border: 10px solid #5000ee;
+    padding: 35px;
+    margin-top: 20px;
+    background-color: #de550e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
