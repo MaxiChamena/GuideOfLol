@@ -14,7 +14,12 @@ h1 {
     font-size: 15px;
     text-align: center;
     margin: 20px 0px;
+}
 
+#titles :hover {
+    display: inline;
+    background-color: black;
+    color: white;
 }
 
 #titles-1 {
@@ -40,11 +45,6 @@ h3 {
     margin-top: 20px;
     background-color: #bbeebb;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
-}
-#titles :hover {
-    display: inline;
-    background-color: black;
-    color: white;
 }
 
 #biography {
