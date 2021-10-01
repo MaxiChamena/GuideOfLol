@@ -3,16 +3,19 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-header {
-    font-size: 15px;
-    background-color: blueviolet;
+#header {
+    display: inline;
+    text-align: center;
+    font-size: 25px;
+    background-color: #23ed77;
     font-weight: 800;
 }
 
-header :hover {
+/* #header :hover {
     animation-duration: 3s;
-    background-color: red;
-}
+    background-color:black;
+    color:  white;
+} */
 
 h1 {
     font-size: 25px;
