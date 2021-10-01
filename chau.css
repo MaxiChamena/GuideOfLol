@@ -3,6 +3,17 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
+header {
+    font-size: 15px;
+    background-color: blueviolet;
+    font-weight: 800;
+}
+
+header :hover {
+    animation-duration: 3s;
+    background-color: red;
+}
+
 h1 {
     font-size: 25px;
     text-align: center;
