@@ -14,11 +14,11 @@ body {
     font-weight: 800;
 }
 
-/* #header :hover {
+#header:hover {
     animation-duration: 3s;
     background-color:black;
     color:  white;
-} */
+}
 
 h1 {
     font-size: 25px;
